@@ -1,0 +1,10 @@
+{
+  "name": "flyers",
+  "version": "0.0.0",
+  "description": "Pass out flyers to fellow developers",
+  "main": "index.js",
+  "repository": "https://github.com/jrolfs/flyers",
+  "author": "Jamie Rolfs <jamie@rolfs.sh>",
+  "license": "MIT",
+  "private": false
+}
